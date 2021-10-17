@@ -1,0 +1,1 @@
+<?php include_once("politica_de_privacidade.html"); ?>
